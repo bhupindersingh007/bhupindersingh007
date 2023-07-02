@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhupinder Singh. I am a Web Developer.
-- 👀 I’m interested in Web Development, Web Hacking.
-- 🌱 I’m currently learning about Web Development & Web Hacking Stuff.
+- 👋 Hi, I’m Bhupinder Singh. I am a Software Developer.
+- 👀 I’m interested in Software Development, Web Development and Web Hacking.
+- 🌱 I’m currently learning and exploring Software Development, Web Development & Web Hacking Stuff.
 - 📫 [https://bhupindersingh007.github.io/](https://bhupindersingh007.github.io/)
