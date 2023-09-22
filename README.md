@@ -1,9 +1,9 @@
-#### 👋 Hi, I’m Bhupinder Singh a Full Stack Software Developer.
+### 👋 Hi, I’m Bhupinder Singh a Full Stack Software Developer.
 - 👀 I’m interested in Software Development, Web Development and Web Hacking.
 - 🌱 I’m currently learning and exploring Software Development & Web Hacking Stuff.
 - 📫 [https://bhupindersingh007.github.io/](https://bhupindersingh007.github.io/)
 
-#### Languages and Tools
+### Languages and Tools
 <div align="left">
 	<table>
 		<tr>
