@@ -17,7 +17,7 @@
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-			<td><code><img width="50" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" title="Laravel"/></code></td>
+			<td><code><img width="50" src="https://camo.githubusercontent.com/63f8942041c20acd922fef42fac8afe7bcbb3c8160eb211b46770f3d0fd0bd05/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c61726176656c2e737667" alt="Laravel" title="Laravel"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
