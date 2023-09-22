@@ -44,3 +44,16 @@
 		</tr>
 	</table>
 </div>
+
+### Social
+<div align="left">
+	<a href="mailto:bhupindersingh8060@gmail.com">
+		<img width="50"src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Gmail" title="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/bhupindersingh007">
+		<img width="50" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="LinkedIn" title="LinkedIn"/></a>
+       <a href="https://github.com/bhupindersingh007/">
+	       <img width="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="GithHub" title="GitHub"/></a>
+<a href="https://codepen.io/BhupinderS">
+	<img width="50" src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667" alt="Codepen" title="Codepen"/></a>
+</div>
+
