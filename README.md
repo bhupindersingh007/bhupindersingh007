@@ -5,7 +5,7 @@
 - 📫 [https://bhupindersingh007.github.io/](https://bhupindersingh007.github.io/)
 
 <h3>🛠️ Languages and Tools</h3>
-<div align="left">
+<div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> 
@@ -36,7 +36,7 @@
 </div>
 
 <h3>📍 Social</h3>
-<div align="left">
+<div>
 	<a href="mailto:bhupindersingh8060@gmail.com">
 	<img width="50"src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Gmail" title="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bhupindersingh007">
