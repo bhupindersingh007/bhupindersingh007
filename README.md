@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software Development, Web Development and Web Hacking.
 - 🌱 I’m currently learning and exploring Software Development & Web Hacking Stuff.
 - 📫 Portfolio: [https://bhupindersingh007.github.io/](https://bhupindersingh007.github.io/)
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <div>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -35,7 +35,7 @@
 <img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
 </div>
 
-### 📍 Social
+## 📍 Social
 <div>
 <a href="mailto:bhupindersingh8060@gmail.com"><img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/bhupindersingh007"><img width="125" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
