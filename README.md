@@ -1,5 +1,3 @@
-<!--![intro-banner](https://github.com/bhupindersingh007/bhupindersingh007/assets/63149405/719b48f1-823f-4be5-a2c3-ab3f7c31af46)-->
-
 - 👋 Hi, I’m Bhupinder Singh a **Full Stack Software Developer**.
 - 👀 I’m interested in Software Development, Web Development and Web Hacking.
 - 🌱 I’m currently learning and exploring Software Development & Web Hacking Stuff.
